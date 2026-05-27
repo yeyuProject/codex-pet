@@ -1,0 +1,16 @@
+{
+  "pets": [
+    {
+      "id": "luoxi",
+      "displayName": "\u6d1b\u831c",
+      "description": "A tiny red-hooded fox-eared artist companion inspired by the reference image.",
+      "path": "pets/luoxi"
+    },
+    {
+      "id": "cartethyia",
+      "displayName": "Cartethyia",
+      "description": "A tiny chibi desktop pet inspired by Cartethyia with a very short black mini skirt under white hanging cloth strips.",
+      "path": "pets/cartethyia"
+    }
+  ]
+}
